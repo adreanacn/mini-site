@@ -25,10 +25,18 @@ p{
     margin-right: 10px;
 }
 
+.parrafo2{
+    font-style: italic;
+    }
+
+#parrafo1{
+    color:white;
+}
+
 img{
-    width:80%;
-    border: 5px solid rgb(57, 117, 165);
-    margin-left: 70px;
+    width:100%;
+    border: 2px solid rgb(57, 117, 165);
+   
 }
 
 
@@ -47,9 +55,6 @@ margin-bottom: 40px;
 background-color: rgb(130, 101, 156);
 }
 
-.parrafo2{
-font-style: italic;
-}
 
 footer{
     padding-bottom: 20px;
